@@ -123,3 +123,6 @@ const findSeq = (dice) => {
 
   return count;
 }
+
+
+
